@@ -191,7 +191,7 @@ header {
 
 .card:hover {
     transform: translateY(-4px);
-    box-shadow: 0 8px 20px #00000010;
+    box-shadow: 0 8px 20px #f3059bdf;
 }
 
 .card img {
